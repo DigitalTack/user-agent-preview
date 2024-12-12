@@ -1,0 +1,8 @@
+## SETUP
+`docker compose up`
+
+## SERVICES
+### API
+The api backend built with node and express
+
+Can be accesed on `http://localhost:3000`.
